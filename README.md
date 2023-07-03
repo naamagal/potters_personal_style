@@ -22,7 +22,7 @@ For the purposes of this research, ceramic students were instructed to produce t
 
 Stability and variability of a result can be measured by the changes of each part along time: rim (c), the dent underneath the rim (b) and bottom of the neck (a).
 
-## My work on this project
+## My Contribution:
 
 My part of this paper was the integration between the quantitative and the visualization methods for identifying the stylistic fingerprint of individual potters. 
 This includes both the 3-D modeling in a CAD program, as well as the quantitative measures to show the stability and variability as a function of the vessel's detected parts (the vessel's rim, the dent underneath the rim, and bottom of the neck), which are defining to track the personal trends.
