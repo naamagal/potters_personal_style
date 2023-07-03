@@ -1,4 +1,4 @@
-# On quantifying and visualizing the potter's personal style [(this paper)](https://www.sciencedirect.com/science/article/abs/pii/S0305440319300627)
+# On quantifying and visualizing the potter's personal style [(paper link)](https://www.sciencedirect.com/science/article/abs/pii/S0305440319300627)
 
 ## Abstract
 Ceramic-sherds analysis has been concerned with categorizing to types according to vessel shape and size for the description of a given material culture. Yet, the characterization of ceramic variations and their meaning receives little attention in the archaeological study. In the present research, we wished to monitor small-scale variations, searching for the unique signature of the individual potter during production. We thus examined new parameters for distinguishing between trainee potters and monitoring their distinct styles as part of an integrated experimental archaeological study.
